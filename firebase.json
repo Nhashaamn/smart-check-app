@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-check-923da",
+          "appId": "1:987937327476:android:e718863cd8d5c84062c421",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-check-923da",
+          "configurations": {
+            "android": "1:987937327476:android:e718863cd8d5c84062c421",
+            "ios": "1:987937327476:ios:a0cf91ebebc82bcc62c421",
+            "web": "1:987937327476:web:0db850087dbd480a62c421"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

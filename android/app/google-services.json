@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "987937327476",
+    "project_id": "smart-check-923da",
+    "storage_bucket": "smart-check-923da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987937327476:android:e718863cd8d5c84062c421",
+        "android_client_info": {
+          "package_name": "com.example.smart_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987937327476-f6sv2t2hvm4dja6si58sd6nhkb43bd7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_check",
+            "certificate_hash": "4312dcd3a90e049e268fa3abb82e94a4e3c829c9"
+          }
+        },
+        {
+          "client_id": "987937327476-bgq71cs3fccq39o6t61fqtltio6taqv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58xxVOFeX6d642UxchQBh2zDuK0wjbTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987937327476-bgq71cs3fccq39o6t61fqtltio6taqv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987937327476-jdcb1ce0780unf48dqv0f6dl6oauf9um.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartCheck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
